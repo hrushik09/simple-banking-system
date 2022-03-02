@@ -12,4 +12,4 @@ It can also perform following actions:
 0. Exit
 
 #
-This program is based on the Simple Banking System project on [Jet Brains Academy](https://hyperskill.org).
+This program is based on the Simple Banking System project on [JetBrains Academy](https://hyperskill.org).
